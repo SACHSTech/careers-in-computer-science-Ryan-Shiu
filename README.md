@@ -15,3 +15,19 @@
 
 ## Salary Range
 $48,000 to $124,000 ($77,333 Average)
+
+
+## Education Required
+### Waterloo Computer Science
+### (Picture)
+### Admission requirements: 
+
+#### Pre-requisite Courses:
+* Advanced Functions 4U
+* Calculus and Vectors 4U
+* Any Grade 12 English
+* One Additional 4U Course
+
+#### Recommended Course:
+* Grade 11 Computer Science
+
