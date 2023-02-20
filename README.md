@@ -28,8 +28,9 @@
 
 ## Salary Range
 $48,000 to $124,000 ($77,333 Average)
-# Education Option
-## **Waterloo Computer Science**
+***
+## Education Option
+### **Waterloo Computer Science**
 
 <img src="waterloo_0.png" width="400" height="100">
 
@@ -66,6 +67,21 @@ $48,000 to $124,000 ($77,333 Average)
 - Two electives
 
 #### **Program Length: 5 Years with 2 Years of Co-op**
+---
+## Job Opportunities
+| Experience |  Salary  | City | Job Description | Additional Skills |
+| ---------- |:--------:|:----:|:---------------:|:-----------------:|
+| 3 Years  | $75,000 - $100,000  |  Calgary  |
+
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 
 
 
