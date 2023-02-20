@@ -9,6 +9,19 @@
 * Troubleshoot any problems in the application.
 * Code and publish any updates
 
+## Required Skills
+### Technical Skills:
+- Knowledge of different programming languages
+- Knowledge of different programming software
+- Strong problem solving skills
+- Strong analytical thinking skills
+
+### Non-Technical Skills
+- Communication Skills
+- Teamworking Skills
+
+
+
 ## Required Education
 * Degree in computer science or software engineering
 * High school Diploma
@@ -39,18 +52,20 @@ $48,000 to $124,000 ($77,333 Average)
 ### **Program Information:**
 #### **First Year Coruses**
 #### September - December: 
-- Designing Functional Programs - CS 135
-- Algebra for Honours Mathematics - MATH 135
-- Calculus 1 for Honours Mathematics - MATH 137
+- Designing Functional Programs - **CS 135**
+- Algebra for Honours Mathematics - **MATH 135**
+- Calculus 1 for Honours Mathematics - **MATH 137**
 - 1 Communication Skill Course
 - One elective
 
 #### **January to April:**
-- Elementary Algorithm Design and Data Abstraction - CS 136
-- Tools and Techniques for Software Development - CS 136L
-- Linear Algebra 1 for Honours Mathematics - MATH 136
-- Calculus 2 for Honours Mathematics - MATH 138
+- Elementary Algorithm Design and Data Abstraction - **CS 136**
+- Tools and Techniques for Software Development - **CS 136L**
+- Linear Algebra 1 for Honours Mathematics - **MATH 136**
+- Calculus 2 for Honours Mathematics - **MATH 138**
 - Two electives
+
+#### **Program Length: 5 Years with 2 Years of Co-op**
 
 
 
