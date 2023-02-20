@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10200300&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
-## Mobile Applications Developer
+## Careers in Computer Science
+# Mobile Applications Developer
 ### Description: A Mobile Applications Developer is required to program, test, and publish different applications for mobile devices.
 
 ## Responsibilities
@@ -15,19 +15,43 @@
 
 ## Salary Range
 $48,000 to $124,000 ($77,333 Average)
+# Education Option
+## **Waterloo Computer Science**
 
+<img src="waterloo_0.png" width="400" height="100">
 
-## Education Required
-### Waterloo Computer Science
-### (Picture)
-### Admission requirements: 
+### **Admission requirements**: 
 
-#### Pre-requisite Courses:
+#### **Pre-requisite Courses**:
 * Advanced Functions 4U
 * Calculus and Vectors 4U
 * Any Grade 12 English
 * One Additional 4U Course
 
-#### Recommended Course:
+#### **Recommended Course**:
 * Grade 11 Computer Science
+
+#### **General Program Requirements:** 
+* High School Diploma
+* 6 U or M courses including the required ones
+* Admission Information Form (Supplementary Application)
+
+### **Program Information:**
+#### **First Year Coruses**
+#### September - December: 
+- Designing Functional Programs - CS 135
+- Algebra for Honours Mathematics - MATH 135
+- Calculus 1 for Honours Mathematics - MATH 137
+- 1 Communication Skill Course
+- One elective
+
+#### **January to April:**
+- Elementary Algorithm Design and Data Abstraction - CS 136
+- Tools and Techniques for Software Development - CS 136L
+- Linear Algebra 1 for Honours Mathematics - MATH 136
+- Calculus 2 for Honours Mathematics - MATH 138
+- Two electives
+
+
+
 
