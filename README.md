@@ -85,7 +85,9 @@ Hackathons are an incredible way for a mobile applications developer to strength
 ## **Job Opportunities**
 |Name of Company | Experience |  Salary  | City | Job Description | Additional Skills |
 | -------------- |:----------:|:--------:|:----:|:---------------:|:-----------------:|
-|Konrad Group | No Experience Required | $70,000 - $100,000 | Toronto | [Konrad Group Job Description](https://www.salary.com/job/konrad/mobile-developer-entry-level/j202112081935356657470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Optional Courses at BrainStation
+|Konrad Group | No Experience Required | $70,000 - $100,000 | Toronto | Write maintainable, testable, and performant software in collaboration with our world class team. Participate in code review and perform extensive testing to ensure we deliver high quality software.
+Research new technology and tools and share those findings with the team.
+Communicate clearly and effectively with all members of our team.  | Optional Courses at BrainStation
 |ITRAK 365 | 3 Years  | $75,000 - $100,000  |  Calgary  | [ITRAK 365 Job Description](https://ca.indeed.com/viewjob?jk=ab459149c63b598e&q=Mobile+Application+Developer&tk=1gpo8ia7aki8q800&from=web&advn=3621553688258846&adid=406846085&ad=-6NYlbfkN0BNRLbAJDBgaSoxhG259W5baKqi8clTjwjd27HvLe_y3J1tnBd1FWMWA_Zlq5i7L6v6xuXqkdtxpqBLqR-ZDzZKX_0b31JIU-GvNwBUKLZt54etnZa2dUs4mn7HQ_EanJGQNiUJv6oF-O2ELvR1Vy_ABkuv7KxUbRl5qqQQQT_1QNWNeFKESIHLE9svf6NWsjKywY68x_MNXvGDjwtjbUemBZ0ICB5jOPALZ1t0LHLhp-Zdfmwo3Y7ofeMNQrJcsGuuGXfIazva8cxSwgUAyntSU4gXmuJNJuFcCXJfUbrRe5lfP1gy7lnakrCv4JrTYpf3FgsL7qa8mzXmZNlxh_y9advYrvH_2ABbLEL48MRmBJh1U0dDmlfujFdQXeLj9MBy3GIjxId9vQd8ASEcCy_7yO7KB0GhPPM%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBY-_M3T4ZGkE2aqR0LbzkdCdPP&vjs=3) | Experience with SQLite, Azure, DevOps and Git
 | Celebra Medical LTD | 5+ Years | $90,000 - $120,000| Winnipeg | [Celebra Medical Job Description](https://www.jobbank.gc.ca/jobsearch/jobposting/37525354) | Ability to work in fast paced environments
 
