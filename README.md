@@ -89,7 +89,7 @@ Hackathons are an incredible way for a mobile applications developer to strength
 |ITRAK 365 | 3 Years  | $75,000 - $100,000  |  Calgary  |Join our dynamic and fast-paced team where individual effort and teamwork are both valued and celebrated. We use cutting-edge technology to make our customers safer and more successful, and we're looking for a talented Mobile App Developer to help us take our ITRAK 365 suite of apps to the next level. | Experience with SQLite, Azure, DevOps and Git
 | Celebra Medical LTD | 5+ Years | $90,000 - $120,000| Winnipeg | Write, modify, integrate and test software code. Maintain existing computer programs by making modifications as required. Identify and communicate technical problems, processes and solutions. Prepare reports, manuals and other documentation on the status, operation and maintenance of software. | Ability to work in fast paced environments
 
-### Links
+### Job Links
 [Konrad Group](https://www.salary.com/job/konrad/mobile-developer-entry-level/j202112081935356657470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 [ITRAK 365](https://ca.indeed.com/viewjob?jk=ab459149c63b598e&q=Mobile+Application+Developer&tk=1gpo8ia7aki8q800&from=web&advn=3621553688258846&adid=406846085&ad=-6NYlbfkN0BNRLbAJDBgaSoxhG259W5baKqi8clTjwjd27HvLe_y3J1tnBd1FWMWA_Zlq5i7L6v6xuXqkdtxpqBLqR-ZDzZKX_0b31JIU-GvNwBUKLZt54etnZa2dUs4mn7HQ_EanJGQNiUJv6oF-O2ELvR1Vy_ABkuv7KxUbRl5qqQQQT_1QNWNeFKESIHLE9svf6NWsjKywY68x_MNXvGDjwtjbUemBZ0ICB5jOPALZ1t0LHLhp-Zdfmwo3Y7ofeMNQrJcsGuuGXfIazva8cxSwgUAyntSU4gXmuJNJuFcCXJfUbrRe5lfP1gy7lnakrCv4JrTYpf3FgsL7qa8mzXmZNlxh_y9advYrvH_2ABbLEL48MRmBJh1U0dDmlfujFdQXeLj9MBy3GIjxId9vQd8ASEcCy_7yO7KB0GhPPM%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBY-_M3T4ZGkE2aqR0LbzkdCdPP&vjs=3)
