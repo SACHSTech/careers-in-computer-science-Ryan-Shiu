@@ -69,17 +69,13 @@ $48,000 to $124,000 ($77,333 Average)
 #### **Program Length: 5 Years with 2 Years of Co-op**
 ---
 ## Job Opportunities
-| Experience |  Salary  | City | Job Description | Additional Skills |
-| ---------- |:--------:|:----:|:---------------:|:-----------------:|
-| 3 Years  | $75,000 - $100,000  |  Calgary  |
+|Name of Company | Experience |  Salary  | City | Job Description | Additional Skills |
+| -------------- |:----------:|:--------:|:----:|:---------------:|:-----------------:|
+|Konrad Group | No Experience Required | $70,000 - $100,000 | Toronto | Link | Optional Courses at BrainStation
+|ITRAK 365 | 3 Years  | $75,000 - $100,000  |  Calgary  | Link | Experience with SQLite, Azure, DevOps and Git
+| Celebra Medical LTD | 5+ Years | $90,000 - $120,000| Winnipeg | Link |
 
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 
