@@ -7,30 +7,30 @@
 
 ### Description: A Mobile Applications Developer is required to program, test, and publish different applications for mobile devices.
 
-## **Responsibilities**
+### **Responsibilities**
 * Support every step in the application’s life cycle.
 * Write code that works in the most organized and effective way. 
 * Troubleshoot any problems in the application.
 * Code and publish any updates
 
-## **Required Skills**
-### **Technical Skills**:
+### **Required Skills**
+#### **Technical Skills**:
 - Knowledge of different programming languages
 - Knowledge of different programming software
 - Strong problem solving skills
 - Strong analytical thinking skills
 
-### **Non-Technical Skills**
+#### **Non-Technical Skills**
 - Communication skills
 - Teamworking skills
 - Reading skills
 
 
-## **Required Education**
+### **Required Education**
 * Degree in computer science or software engineering
 * High school Diploma
 
-## **Salary Range**
+### **Salary Range**
 $48,000 to $124,000 ($77,333 Average)
 ***
 ## **Education**
