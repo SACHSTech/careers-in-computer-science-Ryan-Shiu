@@ -68,6 +68,14 @@ $48,000 to $124,000 ($77,333 Average)
 
 #### **Program Length: 5 Years with 2 Years of Co-op**
 ---
+## Experiential Learning
+Building your own app:
+A great way to learn new skills is learning them independently. When you try to figure out topics by yourself, you tend to learn more. Therefore building your own app is a perfect way for a future mobile applications developer to discover new skills. Building an app will allow you to learn how to troubleshoot problems, figure out algorithms, and experience the entire procedure of the app creation process. 
+
+Compete in a Hackathon:
+Hackathons are an incredible way for a mobile applications developer to strengthen their technical and non-technical skills. This competition will benefit participant’s critical thinking and troubleshooting skills as they will have to adapt on the spot as it is a timed event. Hackathons are also usually collaborative so this will help improve team building and collaboration skills.
+
+---
 ## Job Opportunities
 |Name of Company | Experience |  Salary  | City | Job Description | Additional Skills |
 | -------------- |:----------:|:--------:|:----:|:---------------:|:-----------------:|
