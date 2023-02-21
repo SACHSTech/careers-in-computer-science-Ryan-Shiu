@@ -78,8 +78,8 @@ The University of Waterloo offers a 5 year Computer Science program consisting o
 **Building your own app:**
 A great way to learn new skills is learning them independently. When you try to figure out topics by yourself, you tend to learn more. Therefore building your own app is a perfect way for a future mobile applications developer to discover new skills. Building an app will allow you to learn how to troubleshoot problems, figure out algorithms, and experience the entire procedure of the app creation process. 
 
-**Compete in a Hackathon:**
-Hackathons are an incredible way for a mobile applications developer to strengthen their technical and non-technical skills. This competition will benefit participant’s critical thinking and troubleshooting skills as they will have to adapt on the spot since it is a timed event. Hackathons are also usually collaborative so this will help improve team building and collaboration skills.
+**Compete in Hackathons:**
+Hackathons are an incredible way for a mobile applications developer to strengthen their technical and non-technical skills. This competition will benefit participant’s critical thinking and troubleshooting skills as they will have to adapt on the spot since they are timed events. Hackathons are also usually collaborative so this will help improve team building and collaboration skills.
 
 ---
 ## **Job Opportunities**
@@ -87,7 +87,7 @@ Hackathons are an incredible way for a mobile applications developer to strength
 | -------------- |:----------:|:--------:|:----:|:---------------:|:-----------------:|
 |Konrad Group | No Experience Required | $70,000 - $100,000 | Toronto | [Konrad Group Job Description](https://www.salary.com/job/konrad/mobile-developer-entry-level/j202112081935356657470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Optional Courses at BrainStation
 |ITRAK 365 | 3 Years  | $75,000 - $100,000  |  Calgary  | [ITRAK 365 Job Description](https://ca.indeed.com/viewjob?jk=ab459149c63b598e&q=Mobile+Application+Developer&tk=1gpo8ia7aki8q800&from=web&advn=3621553688258846&adid=406846085&ad=-6NYlbfkN0BNRLbAJDBgaSoxhG259W5baKqi8clTjwjd27HvLe_y3J1tnBd1FWMWA_Zlq5i7L6v6xuXqkdtxpqBLqR-ZDzZKX_0b31JIU-GvNwBUKLZt54etnZa2dUs4mn7HQ_EanJGQNiUJv6oF-O2ELvR1Vy_ABkuv7KxUbRl5qqQQQT_1QNWNeFKESIHLE9svf6NWsjKywY68x_MNXvGDjwtjbUemBZ0ICB5jOPALZ1t0LHLhp-Zdfmwo3Y7ofeMNQrJcsGuuGXfIazva8cxSwgUAyntSU4gXmuJNJuFcCXJfUbrRe5lfP1gy7lnakrCv4JrTYpf3FgsL7qa8mzXmZNlxh_y9advYrvH_2ABbLEL48MRmBJh1U0dDmlfujFdQXeLj9MBy3GIjxId9vQd8ASEcCy_7yO7KB0GhPPM%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBY-_M3T4ZGkE2aqR0LbzkdCdPP&vjs=3) | Experience with SQLite, Azure, DevOps and Git
-| Celebra Medical LTD | 5+ Years | $90,000 - $120,000| Winnipeg | [Celebra Medical Job Description](https://www.jobbank.gc.ca/jobsearch/jobposting/37525354) |
+| Celebra Medical LTD | 5+ Years | $90,000 - $120,000| Winnipeg | [Celebra Medical Job Description](https://www.jobbank.gc.ca/jobsearch/jobposting/37525354) | Ability to work in fast paced environments
 
 
 ##  Works Cited
